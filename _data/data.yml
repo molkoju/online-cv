@@ -71,6 +71,13 @@ education:
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
+grants:
+    title: Research Grants and Fellowships
+    info:
+      - company: Lead Developer
+        time: 2015 - Present
+        project: Startup Hubs, San Francisco
+        
 experiences:
     title: Experiences
     info:
