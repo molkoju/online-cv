@@ -74,10 +74,12 @@ education:
 grants:
     title: Research Grants and Fellowships
     info:
-      - company: Lead Developer
-        time: 2015 - Present
-        project: Startup Hubs, San Francisco
-        
+      - company: European Molecular Biology Organization (EMBO)
+        time: 2020
+        project: Scientific Exchange Grant
+        details: |
+          Where did the expansion start? Inferring the demographic history of the first farmers in the Aegean using Approximate Bayesian Computation (PI: Flora Jay), Université Paris-Saclay, Centre National de la Recherche Scientifique, Inria, Laboratoire de Recherche en Informatique, Orsay, France
+   
 experiences:
     title: Experiences
     info:
