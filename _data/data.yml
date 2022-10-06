@@ -175,6 +175,13 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+        
+presentations:
+    title: Presentations
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
