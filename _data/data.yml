@@ -74,7 +74,7 @@ education:
 grants:
     title: Research Grants and Fellowships
     info:
-      - company: XXXX Organization 
+      - funder: XXXX Organization 
         time: 2020
         project: XXXX Grant
         details: |
